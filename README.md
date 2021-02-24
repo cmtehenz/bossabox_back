@@ -1,15 +1,20 @@
-# Nome do produto
-> Descrição curta sobre o que seu projeto faz.
+# Bossabox desafio backend
+> Api do desafio backend da bossabox.
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+Sua tarefa é construir uma API e banco de dados para a aplicação VUTTR (Very Useful Tools to Remember). A aplicação é um simples repositório para gerenciar ferramentas com seus respectivos nomes, links, descrições e tags.
 
 ![](../header.png)
 
 ## Instalação
+
+configurar db: 
+
+configurar .env:
+
 
 OS X & Linux:
 
